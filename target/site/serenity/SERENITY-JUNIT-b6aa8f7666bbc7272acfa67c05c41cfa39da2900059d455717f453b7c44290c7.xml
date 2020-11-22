@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Validar funcionamiento de las seciones empleo y contactenos de las paginas web" skipped="0" tests="2" time="60.53" timestamp="2020-11-22 10:59:41"><testcase name="Solicitar informacion de Choucair"/><testcase name="Buscar oferta de empleo"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+Operaciones.Empleo.BuscarEmpleo(Empleo.java:40)&#13;
+Enlace.Conector.filtar_ofertas_disponibles(Conector.java:56)&#13;
+✽.filtar ofertas disponibles(src/test/java/Features/Casos.feature:16)&#13;
+</system-err></testcase></testsuite>
